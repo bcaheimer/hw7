@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hw7"
+  site-url: "https://bcaheimer.github.io/hw7"
+  description: "tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/bcaheimer/hw7"
